@@ -113,3 +113,33 @@ The wireframe found in the [Project Airbnb Figma file](https://www.figma.com/des
 This type of wireframe is ideal for validating design decisions and preparing for development, especially in a complex application like a booking platform.
 
 ---
+## 🛠️ Popular Wireframing Tools
+
+Designers and developers use a variety of tools to create wireframes, each offering unique features suited to different stages of the design process. Here are some of the most widely used:
+
+| Tool         | Description                                                                 | Best For                          |
+|--------------|-----------------------------------------------------------------------------|-----------------------------------|
+| **Figma**    | Cloud-based design tool with real-time collaboration and prototyping       | High-fidelity wireframes, team workflows |
+| **Sketch**   | macOS-based vector design tool with plugins for wireframing and prototyping| UI design and static wireframes   |
+| **Adobe XD** | Offers design, prototyping, and sharing in one platform                     | Interactive wireframes and mockups|
+| **Balsamiq** | Focuses on low-fidelity wireframes with a sketch-like interface             | Early-stage layout planning       |
+| **Axure RP** | Advanced tool with logic, interactions, and documentation features          | Complex prototypes and UX flows   |
+
+---
+
+## ⭐ Recommended Tool: Figma
+
+[Figma](https://www.figma.com/) is a powerful, browser-based design tool that has become a favorite among designers and developers for wireframing and UI design.
+
+### 🔧 Key Features:
+- **Real-Time Collaboration**: Multiple users can design and comment simultaneously.
+- **Cross-Platform Access**: Works on any OS with a browser—no installation needed.
+- **Component System**: Reusable design elements for consistency and scalability.
+- **Prototyping Tools**: Link frames and simulate user interactions without leaving the app.
+- **Version History**: Track changes and revert to previous iterations easily.
+- **Community Resources**: Access thousands of free templates and plugins.
+
+### 💡 Why It’s Great for Wireframing:
+Figma streamlines the wireframing process by combining layout design, interaction prototyping, and team feedback in one seamless environment. Whether you're sketching out a rough concept or building a pixel-perfect mockup, Figma adapts to your workflow and scales with your project.
+
+---
