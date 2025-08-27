@@ -63,3 +63,53 @@ Outlines interactive elements such as buttons, dropdowns, input fields, and moda
 A “Book Now” button placed near the price section signals a clear call-to-action. Including a date picker and guest selector in the wireframe shows how users will interact with the booking form.
 
 ---
+
+## 🧭 Types of Wireframes
+
+Wireframes come in different levels of detail depending on the stage of the design process. The two most common types are **low-fidelity** and **high-fidelity** wireframes.
+
+### 📝 Low-Fidelity Wireframes
+
+Low-fidelity wireframes are basic, sketch-like representations of a layout. They focus on structure and functionality without detailed styling or content.
+
+**Characteristics:**
+- Simple shapes and placeholders
+- No color or branding
+- Minimal text
+- Fast to create and iterate
+
+**Used for:**
+- Early brainstorming and concept validation
+- Rapid prototyping and stakeholder feedback
+- Exploring layout and user flow
+
+### 🎨 High-Fidelity Wireframes
+
+High-fidelity wireframes are polished and closely resemble the final product. They include detailed visuals, typography, and real content.
+
+**Characteristics:**
+- Accurate spacing and alignment
+- Branded colors and fonts
+- Interactive elements and annotations
+- Often built in tools like Figma or Adobe XD
+
+**Used for:**
+- Final design approval
+- Developer handoff
+- Usability testing
+
+---
+
+## 🔍 Wireframe Type: Project Airbnb (Figma)
+
+The wireframe found in the [Project Airbnb Figma file](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=3XDxhp3Vl1QIyMgo-0) is a **high-fidelity wireframe**.
+
+**Why?**
+- It includes detailed UI components such as cards, buttons, and navigation bars.
+- Realistic content and imagery are used to simulate the final experience.
+- The layout is pixel-precise and styled with brand-specific colors and fonts.
+- It’s designed for stakeholder presentation and developer implementation.
+
+This type of wireframe is ideal for validating design decisions and preparing for development, especially in a complex application like a booking platform.
+
+---
